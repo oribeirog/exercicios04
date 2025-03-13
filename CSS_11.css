@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+
+/* classes personalizadas */
+.texto-titulo {
+    text-align: center;
+    color: red;
+}
+
+.texto-normal {
+    text-align: left;
+    color: blue;
+}
